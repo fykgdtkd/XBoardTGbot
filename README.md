@@ -1,4 +1,4 @@
-# XBoard-TG流量机器人签到
+# XBoard-TG机器人签到获取随机1m-1G流量
 TG流量机器人签到
 下载后将telegram放到/www/wwwroot/域名/plugins/目录下即可 
 
