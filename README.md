@@ -32,4 +32,3 @@ https://telegraph-image-88g.pages.dev/file/AgACAgUAAyEGAATOlTvtAAMKaTHGdQuHxfxbT
 执行成功后，在左侧表列表刷新，应该能看到新表：
 plugin_telegram_lottery_logs
 
-✅ 想确认是否成功：选中库后再点 SQL，执行：
